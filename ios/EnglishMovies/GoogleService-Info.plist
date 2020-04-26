@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>478957910204-3fk2tuc9tunf4if8rgrr8ddnr66fqaa3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.478957910204-3fk2tuc9tunf4if8rgrr8ddnr66fqaa3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCITtGhnyRlv1mPjlGjjLpxkvWJwVh4FT0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>478957910204</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mobi.devsteam.youtoube</string>
+	<key>PROJECT_ID</key>
+	<string>english-movies-264114</string>
+	<key>STORAGE_BUCKET</key>
+	<string>english-movies-264114.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:478957910204:ios:fa00f72c734e9704d878b9</string>
+	<key>DATABASE_URL</key>
+	<string>https://english-movies-264114.firebaseio.com</string>
+</dict>
+</plist>
